@@ -4,7 +4,7 @@
 
 This project showcases a dynamic educational website for Harvard University, built using **React** and **Vite** for an optimized development experience. It provides a robust setup for both frontend and backend integration.  
 
-![Harvard University Website Screenshot](https://i.ibb.co/Xt476tw/Home-Abroad-University-01-04-2025-09-23-PM.png)  
+(https://i.ibb.co/Xt476tw/Home-Abroad-University-01-04-2025-09-23-PM.png)  
 
 ## **Features**  
 
